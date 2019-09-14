@@ -1,0 +1,78 @@
+
+/* ----------------------------------------------------------------------
+Template Name : Personal Portfolio Template
+Author        : Seniman Koding www.senimankoding.com | DONI ASRUL AFANDI
+Version       : 1.0
+Copyright     : 2019
+* ----------------------------------------------------------------------
+*/
+
+
+
+/* Imported CSS */
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,900");
+/* End Imported CSS*/
+
+
+/* Default CSS*/
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color: #fff;
+	overflow-x: hidden;
+	font-size: 15px;
+	color: #333;
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+p {
+	line-height: 1.7;
+	margin: 0;
+	font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	padding: 0;
+}
+
+input:focus,
+textarea:focus,
+button:focus {
+	outline: medium none
+}
+
+ul,
+ol {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+}
+a:focus,
+a:hover {
+	text-decoration: none;
+	transition: 1s;
+}
+
+
+
+/* End Default CSS*/
+
